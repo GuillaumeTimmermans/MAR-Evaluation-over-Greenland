@@ -1,3 +1,6 @@
+# This code checks the idw smb value in python; "official computation" is made with an old "obscur" fortran program If you want to be 100 % precise you should use the haversine distance
+
+
 import numpy as np
 from netCDF4 import Dataset
 #from sklearn.neighbors import KDTree
